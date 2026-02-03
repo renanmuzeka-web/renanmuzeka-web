@@ -1,16 +1,12 @@
-## Hi there 👋
+<div align="center">
+  
+![star-wars-hello-there](https://github.com/user-attachments/assets/5fc8abbb-8152-4eab-b665-8020d81afcfe)
 
-<!--
-**renanmuzeka-web/renanmuzeka-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👋 Hello! Welcome to my Github profile.
+## My name is Renan
+- 💼 Former IT Support Analyst with experience in technical support, currently seeking new opportunities in IT support or related roles.
+- 🌱 Degree in Systems Analysis and Development from UniCesumar (Brazil).
+- 🚀 I’m getting back into programming, focusing on JavaScript, building small and practical projects.
+- 🛠️ Currently studying Git and GitHub for version control.
